@@ -5,7 +5,7 @@
 </h4>
 <p align="center">
   <img 
-    src="https://github.com/JDCH1206/challenge-libros/blob/master/src/main/resources/testimages/logo.png" 
+    src="https://raw.githubusercontent.com/JDCH1206/foroAlura/refs/heads/main/src/main/resources/imagenes/logoProyecto.webp" 
     alt="logo" 
     width="200" 
     height="200" 
@@ -79,8 +79,11 @@
 
 ## Introducción
 
-Este proyecto ha sido desarrollado bajo la guía de la plataforma **Alura Latam** en colaboración con **Oracle**, como parte de la convocatoria **Oracle Next Education G7**. El objetivo principal es crear un sistema que permita gestionar información de libros en tiempo real utilizando la API **Gutendex**.
+Este proyecto ha sido desarrollado como parte del programa **Oracle Next Education G7**, en colaboración con **Alura Latam** y **Oracle**. Su objetivo principal es implementar una **API** para la gestión de solicitudes y operaciones de un foro en línea.
 
-Para más información sobre la API, consulta el siguiente enlace: [Gutendex API](https://gutendex.com/books/?search=%20).
+El sistema permite manejar de manera eficiente funcionalidades clave como la creación, visualización, actualización y eliminación de tópicos, fomentando la interacción en una comunidad de usuarios. Este desarrollo se ha enfocado en seguir buenas prácticas de programación, diseño modular y el uso de tecnologías modernas para garantizar la calidad, seguridad y mantenibilidad del código.
+
+Además, el proyecto representa una oportunidad de aprendizaje aplicada para consolidar habilidades en Java, Spring Boot, y metodologías ágiles, mientras se abordan desafíos reales en el desarrollo de software empresarial.
+
 
 ---
